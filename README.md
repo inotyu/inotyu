@@ -1,4 +1,4 @@
-  ## Repositório de Yutto
+## Repositório de Yutto
 
 ## Sobre Mim
 
@@ -26,4 +26,4 @@ tenho conhecimento.
 
 ## Contato
 
-Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em [Contato Gean](mailto:contatogeanpls@gmail.com) ou me encontrar no [LinkedIn]([link_para_seu_perfil_no_LinkedIn](https://www.linkedin.com/in/gean-carlos-b24651266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]).
+Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em [Contato Gean](mailto:contatogeanpls@gmail.com) ou me encontrar no [LinkedIn](https://www.linkedin.com/in/gean-carlos-b24651266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
