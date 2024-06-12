@@ -26,6 +26,4 @@ tenho conhecimento.
 
 ## Contato
 
-Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em [Contato Gean](mailto:contatogeanpls@gmail.com) ou me encontrar no [LinkedIn](link_para_seu_perfil_no_LinkedIn).
-
-Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Vamos nos conectar!
+Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em [Contato Gean](mailto:contatogeanpls@gmail.com) ou me encontrar no [LinkedIn]([link_para_seu_perfil_no_LinkedIn](https://www.linkedin.com/in/gean-carlos-b24651266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)).
