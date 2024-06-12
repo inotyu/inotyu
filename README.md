@@ -6,23 +6,32 @@ Olá! Meu nome é [Seu Nome] e sou um entusiasta da programação. Estou sempre 
 
 ## Linguagens e Tecnologias
 
-- **HTML**:  
-  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-
-- **CSS**:  
-  ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-
-- **Java**:  
-  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-
-- **JavaScript**:  
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-
-- **SQL**:  
-  ![SQL](https://img.icons8.com/color/48/000000/sql.png)
-
-- **Python**:  
-  ![Python](https://img.icons8.com/color/48/000000/python.png)
+<div style="display: flex; align-items: center;">
+    <div>
+        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">
+        <p>HTML</p>
+    </div>
+    <div>
+        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">
+        <p>CSS</p>
+    </div>
+    <div>
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java">
+        <p>Java</p>
+    </div>
+    <div>
+        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+        <p>JavaScript</p>
+    </div>
+    <div>
+        <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL">
+        <p>SQL</p>
+    </div>
+    <div>
+        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+        <p>Python</p>
+    </div>
+</div>
 
 ## Projetos
 
@@ -35,5 +44,3 @@ Olá! Meu nome é [Seu Nome] e sou um entusiasta da programação. Estou sempre 
 Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em [seuemail@example.com](mailto:seuemail@example.com) ou me encontrar no [LinkedIn](link_para_seu_perfil_no_LinkedIn).
 
 Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Vamos nos conectar!
-
-
