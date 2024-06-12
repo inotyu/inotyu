@@ -2,7 +2,10 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é [Seu Nome] e sou um entusiasta da programação. Estou sempre buscando aprender e aprimorar minhas habilidades em diferentes linguagens e tecnologias. Abaixo você encontrará um resumo das linguagens que conheço e com as quais trabalho regularmente:
+olá, me chamo Gean e atualmente estou cursando Técnico em Desenvolvimento de Sistemas.
+Neste repositório terá códigos de todas as línguagens que eu conheço, exercícios passados pelo
+meu professor e pelo gpt. Planejo sempre crescer em conhecimento. Abaixo está listado as quais
+tenho conhecimento.
 
 ## Linguagens e Tecnologias
 
@@ -23,6 +26,6 @@ Olá! Meu nome é [Seu Nome] e sou um entusiasta da programação. Estou sempre 
 
 ## Contato
 
-Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em [seuemail@example.com](mailto:seuemail@example.com) ou me encontrar no [LinkedIn](link_para_seu_perfil_no_LinkedIn).
+Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em [Contato Gean](mailto:contatogeanpls@gmail.com) ou me encontrar no [LinkedIn](link_para_seu_perfil_no_LinkedIn).
 
 Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Vamos nos conectar!
