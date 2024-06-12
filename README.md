@@ -2,9 +2,9 @@
 
 ## Sobre Mim
 
-olá, me chamo Gean e atualmente estou cursando Técnico em Desenvolvimento de Sistemas.
+Olá, me chamo Gean e atualmente estou cursando Técnico em Desenvolvimento de Sistemas.
 Neste repositório terá códigos de todas as línguagens que eu conheço, exercícios passados pelo
-meu professor e pelo gpt. Planejo sempre crescer em conhecimento. Abaixo está listado as quais
+meu professor e pelo gpt além de alguns projetos individuais. Planejo sempre crescer em conhecimento. Abaixo está listado as quais
 tenho conhecimento.
 
 ## Linguagens e Tecnologias
