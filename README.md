@@ -25,12 +25,6 @@ Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um 
 
 
 
-## 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inotyu&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=inotyu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas" height="151" alt="stats graph"  />
-</div>
-
 
 ##
 
@@ -38,8 +32,5 @@ Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um 
   <img align="left" width="500" height="250" src="https://i.pinimg.com/originals/0f/f8/29/0ff829f00ed6dc0280fc32b4c1565d8b.gif" />
   <img align="left" width="500" height="250" src="https://i.pinimg.com/originals/45/b4/f8/45b4f8716d16161c0e01c465105d7b7f.gif" />
 </div>
-
-
-
 
 ###
