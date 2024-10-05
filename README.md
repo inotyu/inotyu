@@ -15,9 +15,9 @@ Olá, me chamo Gean e atualmente estou cursando Técnico em Desenvolvimento de S
 
 ## Projetos
 
-- [Projeto 1](link_para_o_projeto_1): Descrição breve do projeto.
-- [Projeto 2](link_para_o_projeto_2): Descrição breve do projeto.
-- [Projeto 3](link_para_o_projeto_3): Descrição breve do projeto.
+- [Projeto 1](link_para_o_projeto_1): Em andamento. 
+- [Projeto 2](link_para_o_projeto_2): Em andamento.
+- [Projeto 3](link_para_o_projeto_3): Em andamento.
 
 ## Contato
 
