@@ -14,7 +14,7 @@ This repository will contain projects i've completed that i find relevant.
 
 ## Bests Projects
 
-- [Project 1](link_para_o_projeto_1): in progress. 
+- [Player-Music](https://inotyu.github.io/youtube-player/): Web Player Music. 
 - [Project 2](link_para_o_projeto_2): in progress.
 - [Project 3](link_para_o_projeto_3): in progress.
 
