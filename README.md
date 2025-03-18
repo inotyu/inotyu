@@ -1,12 +1,12 @@
 ## About me
 I'm a systems development student, learning new programming languages every day. 
-This repository will contain projects i've completed that i find relevant.
+This repository will contain projects I've completed that I find relevant.
 
-## Languages i am familiar with:
+## Languages I am familiar with:
 
-| Python                   | Java         | Js              | HTML                    | CSS                     | 
-|--------------------------|---------------|----------------------------------------|-------------------------|-------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/> |
+| Python                   | Js              | HTML                    | CSS                     | 
+|--------------------------|-----------------|-------------------------|-------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/> |
 
 | SQL                    | 
 |--------------------------|
@@ -15,7 +15,7 @@ This repository will contain projects i've completed that i find relevant.
 ## Bests Projects
 
 - [Player-Music](https://inotyu.github.io/youtube-player/): Web Player Music. 
-- [Project 2](link_para_o_projeto_2): in progress.
+- [RedDevs](https://reddevs.pythonanywhere.com/home): RedDevs, sua solução.
 - [Project 3](link_para_o_projeto_3): in progress.
 
 ## Contact
@@ -26,7 +26,4 @@ If you want to get in touch with me, feel free to send me an email at [Contact G
 
 <div>
   <img align="left" width="450" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHU0Nnh1dWZyYXhiaW45OGtvOHpqcmFlcHg3dHNmZjB0NWdyMThxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gFPxNhzEWdFCCRAqf0/giphy.gif" />
-
 </div>
-
-###
