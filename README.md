@@ -1,6 +1,5 @@
 ## About me
-I'm a systems development student, learning new programming languages every day. 
-This repository will contain projects I've completed that I find relevant.
+I'm a systems development student with a strong focus on Python and web technologies. I love building practical, user-focused applications and continuously improving my skills. I'm currently working on projects involving full-stack development, data visualization, and automation.
 
 ## Languages I am familiar with:
 
