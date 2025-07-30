@@ -69,9 +69,10 @@ I'm a systems development student with a strong focus on Python and web technolo
 - **Project 4** *(in progress)*  
   🛠️ A new project is currently under development — soon to be released with a new visual concept and full integration.
 
-## Contact
+## 📬 Contact Me
 
-If you want to get in touch with me, feel free to send me an email at [Contact Gean](mailto:contatogeanpls@gmail.com) or you can find me on [LinkedIn](https://www.linkedin.com/in/gean-carlos-b24651266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+If you'd like to get in touch, feel free to send me an email at [contatogeanpls@gmail.com](mailto:contatogeanpls@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gean-carlos-b24651266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).  
+I'm always open to chat about projects, ideas, or opportunities!
 
 ##
 
