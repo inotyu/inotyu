@@ -58,16 +58,16 @@ I'm a systems development student with a strong focus on Python and web technolo
 ## 📦 Best Projects
 
 - [**RH Rosa**](https://lowproject.pythonanywhere.com)  
-  🩷 A modern HR system built with **Flask**. Supports notes with images and videos, secure authentication, and a clean pink-and-white interface. Ideal for personal or organizational use.
+   A modern HR system built with **Flask**. Supports notes with images and videos, secure authentication, and a clean pink-and-white interface. Ideal for personal or organizational use.
 
 - [**Player Music Web**](https://inotyu.github.io/youtube-player/)  
-  🎵 A simple and responsive web-based music player built with **HTML, CSS, and JavaScript**, integrated with YouTube. Designed for a smooth and lightweight user experience.
+   A simple and responsive web-based music player built with **HTML, CSS, and JavaScript**, integrated with YouTube. Designed for a smooth and lightweight user experience.
 
 - [**RedDevs**](https://reddevs.pythonanywhere.com/home)  
-  🚀 A **Flask-integrated landing page**, created by young developers to receive real project proposals and bring them to life. Clean design with a focus on custom solutions.
+   A **Flask-integrated landing page**, created by young developers to receive real project proposals and bring them to life. Clean design with a focus on custom solutions.
 
 - **Project 4** *(in progress)*  
-  🛠️ A new project is currently under development — soon to be released with a new visual concept and full integration.
+   A new project is currently under development — soon to be released with a new visual concept and full integration.
 
 ## 📬 Contact Me
 
