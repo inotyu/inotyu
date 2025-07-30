@@ -1,4 +1,4 @@
-## About me
+## 👨‍💻 About me
 I'm a systems development student with a strong focus on Python and web technologies. I love building practical, user-focused applications and continuously improving my skills. I'm currently working on projects involving full-stack development, data visualization, and automation.
 
 ## 🧰 Tools & Technologies
