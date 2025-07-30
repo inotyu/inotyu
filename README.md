@@ -27,3 +27,5 @@ If you want to get in touch with me, feel free to send me an email at [Contact G
 <div>
   <img align="left" width="450" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHU0Nnh1dWZyYXhiaW45OGtvOHpqcmFlcHg3dHNmZjB0NWdyMThxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gFPxNhzEWdFCCRAqf0/giphy.gif" />
 </div>
+
+![Gean's GitHub stats](https://github-readme-stats.vercel.app/api?username=inotyu&show_icons=true&theme=github_dark)
