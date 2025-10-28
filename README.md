@@ -60,8 +60,8 @@ I'm a systems development student with a strong focus on Python and web technolo
 - [**SyncMsc**](https://github.com/inotyu/sync_msc)  
    A modern platform to listen to music in sync with friends in real time. Powered by YouTube, it lets you create private rooms, share playlists, and enjoy the same tracks together with a clean pink-and-white interface. Perfect for groups, online parties, or sharing moments across distance.
 
-- [**Player Music Web**](https://inotyu.github.io/youtube-player/)  
-   A simple and responsive web-based music player built with **HTML, CSS, and JavaScript**, integrated with YouTube. Designed for a smooth and lightweight user experience.
+- [**VoidGate**](https://github.com/inotyu/voidgate)  
+   A fast and reliable platform to store and transform videos into .mp4 files with perfect URLs ready to share anywhere, including Discord. Designed for simplicity and speed, VoidGate makes uploading, converting, and sharing videos effortless.
 
 - [**RedDevs**](https://reddevs.pythonanywhere.com/home)  
    A **Flask-integrated landing page**, created by young developers to receive real project proposals and bring them to life. Clean design with a focus on custom solutions.
