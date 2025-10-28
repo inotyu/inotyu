@@ -57,7 +57,7 @@ I'm a systems development student with a strong focus on Python and web technolo
 
 ## 📦 Best Projects
 
-- [**SyncMsc**](syncmsc.shardweb.app/)  
+- [**SyncMsc**](https://github.com/inotyu/sync_msc)  
    A modern platform to listen to music in sync with friends in real time. Powered by YouTube, it lets you create private rooms, share playlists, and enjoy the same tracks together with a clean pink-and-white interface. Perfect for groups, online parties, or sharing moments across distance.
 
 - [**Player Music Web**](https://inotyu.github.io/youtube-player/)  
