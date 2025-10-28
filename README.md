@@ -57,8 +57,8 @@ I'm a systems development student with a strong focus on Python and web technolo
 
 ## 📦 Best Projects
 
-- [**RH Rosa**](https://lowproject.pythonanywhere.com)  
-   A modern HR system built with **Flask**. Supports notes with images and videos, secure authentication, and a clean pink-and-white interface. Ideal for personal or organizational use.
+- [**SyncMsc**](syncmsc.shardweb.app/)  
+   A modern platform to listen to music in sync with friends in real time. Powered by YouTube, it lets you create private rooms, share playlists, and enjoy the same tracks together with a clean pink-and-white interface. Perfect for groups, online parties, or sharing moments across distance.
 
 - [**Player Music Web**](https://inotyu.github.io/youtube-player/)  
    A simple and responsive web-based music player built with **HTML, CSS, and JavaScript**, integrated with YouTube. Designed for a smooth and lightweight user experience.
