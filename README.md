@@ -1,171 +1,83 @@
-!-- ━━━━━━━━━━━━━━━━ BANNER ━━━━━━━━━━━━━━━━━ -->
-<p align="center">
-  <img src="https://i.imgur.com/YuJbZgC.png" width="100%" alt="Banner Cyberpunk"/>
-</p>
+## 👨‍💻 About me
+I'm a systems development student with a strong focus on Python and web technologies. I love building practical, user-focused applications and continuously improving my skills. I'm currently working on projects involving full-stack development, data visualization, and automation.
 
-<h1 align="center">👾 Gean — Full-Stack Developer & Cybersecurity Student</h1>
+## 🧰 Tools & Technologies
 
-<p align="center">
-  <strong>Python • Web Dev • Linux • Security-Oriented Workflow</strong><br>
-  Building useful applications, exploring cybersecurity tools, and improving every day.
-</p>
-
----
-
-<!-- ━━━━━━━━━━━━━━━━ BADGES ━━━━━━━━━━━━━━━━━ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-NyArch-1793d1?logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-11-0078D6?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.x-ffdd54?logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Learning-9d00ff?logo=protonvpn&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Testing-Postman-f76935?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Security-Burp%20Suite-ee6c00?logo=burpsuite&logoColor=white" />
-</p>
-
----
-
-## 👨‍💻 About Me
-I'm a systems development student focused on **Python**, **web technologies**, and **secure development practices**.  
-I enjoy creating practical applications and learning tools from both software development and cybersecurity.
-
-- Full-stack development  
-- Data visualization  
-- Automation  
-- Linux-first workflow (NyArch)  
-- Exploring ethical security tools and methodologies  
-
----
-
-# 🧰 Tools & Technologies
-
-## **Core Stack**
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/><br>HTML
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/><br>CSS
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br>MySQL
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br>SQLite / SQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/><br>SQL
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/><br>Kotlin
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/><br>Kotlin
     </td>
   </tr>
 </table>
 
----
-
-## **Frameworks**
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/><br>Flask
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/><br>Flask
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React (basic)
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br>React (basic)
     </td>
     <td align="center" width="80">
-      <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/><br>Power BI
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/><br>Power BI
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br>Git (basic)
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br>GitHub
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VS Code
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br>VS Code
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/><br>Figma
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br>Figma
     </td>
   </tr>
 </table>
 
----
+## 📦 Best Projects
 
-## 🛡️ Cybersecurity & Testing Tools  
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/w/wpscan-logo.svg" width="45"/><br>WPScan
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.svgrepo.com/show/353912/burp-suite.svg" width="45"/><br>Burp Suite
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/><br>Postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.svgrepo.com/show/376356/insomnia.svg" width="45"/><br>Insomnia
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/><br>Linux
-    </td>
-  </tr>
-</table>
+- [**SyncMsc**](https://github.com/inotyu/sync_msc)  
+   A modern platform to listen to music in sync with friends in real time. Powered by YouTube, it lets you create private rooms, share playlists, and enjoy the same tracks together with a clean pink-and-white interface. Perfect for groups, online parties, or sharing moments across distance.
 
----
+- [**VoidGate**](https://github.com/inotyu/voidgate)  
+   A fast and reliable platform to store and transform videos into .mp4 files with perfect URLs ready to share anywhere, including Discord. Designed for simplicity and speed, VoidGate makes uploading, converting, and sharing videos effortless.
 
-# 🖥️ Fake Terminal (NyArch Vibes)
+- [**RedDevs**](https://reddevs.pythonanywhere.com/home)  
+   A **Flask-integrated landing page**, created by young developers to receive real project proposals and bring them to life. Clean design with a focus on custom solutions.
 
-```bash
-> inotyu@nyarch:~$ whoami
-Gean — Developer & Cybersecurity Student
+- **Project 4** *(in progress)*  
+   A new project is currently under development — soon to be released with a new visual concept and full integration.
 
-> inotyu@nyarch:~$ skills --list
-Python, Flask, JS, React(basic), SQL, Automation, API Testing, Linux
+## 📬 Contact Me
 
-> inotyu@nyarch:~$ tools --security
-WPScan, Burp Suite, Postman, Insomnia
+If you'd like to get in touch, feel free to send me an email at [contatogeanpls@gmail.com](mailto:contatogeanpls@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gean-carlos-b24651266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).  
+I'm always open to chat about projects, ideas, or opportunities!
 
-> inotyu@nyarch:~$ status
-Learning • Building • Breaking (ethically) • Improving
-
-
----
-
-📦 Best Projects
-
-🎧 SyncMsc
-
-Listen to music in sync with friends in real time — powered by YouTube.
-
-🎥 VoidGate
-
-Upload → Convert → Share. Clean MP4 URLs ready for Discord & social.
-
-🧩 RedDevs
-
-Flask-based landing page for real project proposals.
-
-⚙️ Project 4 — Coming soon
-
-A new full-stack concept with upgraded UI/UX and automation.
-
-
----
-
-📬 Contact
-
-📧 Email: contatogeanpls@gmail.com
-🔗 LinkedIn: Gean Carlos
-
-
----
+##
 
 <div>
   <img align="left" width="450" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHU0Nnh1dWZyYXhiaW45OGtvOHpqcmFlcHg3dHNmZjB0NWdyMThxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gFPxNhzEWdFCCRAqf0/giphy.gif" />
 </div>
+
+![Gean's GitHub stats](https://github-readme-stats.vercel.app/api?username=inotyu&show_icons=true&theme=github_dark)
