@@ -26,35 +26,19 @@
 <p align="center"><b>Linguagens</b></p>
 
 <p align="center">
-  <a href="https://kotlinlang.org/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg">
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg">
-  </a>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg">
 </p>
 
 <p align="center"><b>Frameworks & Ferramentas</b></p>
 
 <p align="center">
-  <a href="https://react.dev/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg">
-  </a>
-  <a href="https://vuejs.org/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg">
-  </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg">
-  </a>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg">
 </p>
 
 <p align="center">
@@ -70,10 +54,6 @@
 <p align="center"><b>Onde me encontrar</b></p>
 
 <p align="center">
-  <a href="https://github.com/SEUUSUARIO">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg">
-  </a>
-  <a href="https://discord.com/users/SEUID">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg">
-  </a>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg">
 </p>
