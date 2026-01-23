@@ -1,6 +1,6 @@
 <div align="center">
 
-# SeuNomeAqui
+# Gean Carlos
 
 </div>
 
@@ -11,9 +11,9 @@
   <tr>
     <td style="vertical-align: top; text-align: left;">
       <ul>
-        <li>eu programo (quando o código colabora)</li>
-        <li>aprendendo na base do erro e do Stack Overflow</li>
-        <li>web, mobile e um pouco de tudo</li>
+        <li>programador por insistência</li>
+        <li>web, mobile e backend</li>
+        <li>quebrando código desde sempre</li>
         <li>🐈</li>
       </ul>
     </td>
@@ -23,7 +23,7 @@
   </tr>
 </table>
 
----
+<br>
 
 <p align="center">
   <b>Linguagens</b>
@@ -36,58 +36,62 @@
   <a href="https://www.python.org/">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" />
   </a>
   <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/docs/Web/HTML">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/docs/Web/CSS">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" />
   </a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <b>Ferramentas & Ambiente</b>
+  <b>Frameworks & Ferramentas</b>
 </p>
 
 <p align="center">
-  <a href="https://developer.android.com/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg" />
+  <a href="https://react.dev/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" />
   </a>
-  <a href="https://nodejs.org/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" />
+  <a href="https://vuejs.org/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg" />
   </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" />
+  <a href="https://vitejs.dev/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vite/vite3.svg" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <b>Sistemas</b>
-</p>
-
-<p align="center">
-  <a href="https://www.microsoft.com/windows">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg" />
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg" />
   </a>
-  <a href="https://www.android.com/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg" />
+  <br>
+  <a href="https://insomnia.rest/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Insomnia/insomnia3.svg" />
   </a>
-  <a href="https://www.linux.org/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" />
+  <a href="https://portswigger.net/burp">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BurpSuite/burpsuite3.svg" />
   </a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <b>Onde me achar</b>
+  <b>Sistema Operacional</b>
+</p>
+
+<p align="center">
+  <a href="https://cachyos.org/">
+    <img src="https://img.shields.io/badge/CachyOS-Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <b>Onde me encontrar</b>
 </p>
 
 <p align="center">
