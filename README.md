@@ -13,7 +13,7 @@
       </ul>
     </td>
     <td style="vertical-align: middle;">
-      <img src="https://i.imgur.com/q7g0WMg.jpeg" width="100"/>
+      <img src="https://64.media.tumblr.com/01c8a07f297bcc663da016c43dcd6e37/tumblr_pn1k36AUVD1sx8ybdo3_400.pnj" width="100"/>
     </td>
   </tr>
 </table>
