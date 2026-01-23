@@ -1,8 +1,4 @@
-<div align="center">
-
-# Gean Carlos
-
-</div>
+<h1 align="center">Gean Carlos</h1>
 
 <table align="center" border="0" style="border: none;">
   <tr>
@@ -39,16 +35,14 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg">
-</p>
-
-<p align="center">
-  <i>Vite, Insomnia e Burp Suite não possuem badges oficiais neste pack</i>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg">
 </p>
 
 <p align="center"><b>Sistema Operacional</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CachyOS-Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg">
 </p>
 
 <p align="center"><b>Onde me encontrar</b></p>
