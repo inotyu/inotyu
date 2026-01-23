@@ -7,15 +7,15 @@
     <th colspan="2" style="text-align: center;">Sobre mim</th>
   </tr>
   <tr>
-    <td colspan="2" style="vertical-align: middle; text-align: center;">
-      <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-        <ul style="list-style-position: inside; padding: 0; margin: 0; text-align: left;">
-          <li>programador por insistência</li>
-          <li>web, mobile e backend</li>
-          <li>quebrando código desde sempre</li>   
-        </ul>
-        <img src="https://64.media.tumblr.com/01c8a07f297bcc663da016c43dcd6e37/tumblr_pn1k36AUVD1sx8ybdo3_400.pnj" width="100"/>
-      </div>
+    <td style="vertical-align: middle; text-align: center;">
+      <ul style="list-style-position: inside; padding: 0; margin: 0;">
+        <li>programador por insistência</li>
+        <li>web, mobile e backend</li>
+        <li>quebrando código desde sempre</li>   
+      </ul>
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="https://64.media.tumblr.com/01c8a07f297bcc663da016c43dcd6e37/tumblr_pn1k36AUVD1sx8ybdo3_400.pnj" width="100"/>
     </td>
   </tr>
 </table>
