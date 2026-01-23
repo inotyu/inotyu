@@ -1,12 +1,14 @@
 <h1 align="center">Gean Carlos</h1>
 
-<table align="center" border="0" style="border: none;">
+<div align="center">
+
+<table border="0" style="border: none;">
   <tr>
     <th colspan="2" style="text-align: center;">Sobre mim</th>
   </tr>
   <tr>
-    <td style="vertical-align: top; text-align: left;">
-      <ul>
+    <td style="vertical-align: middle; text-align: center;">
+      <ul style="list-style-position: inside; padding: 0; margin: 0;">
         <li>programador por insistência</li>
         <li>web, mobile e backend</li>
         <li>quebrando código desde sempre</li>   
@@ -17,6 +19,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 <p align="center"><b>Linguagens</b></p>
 
