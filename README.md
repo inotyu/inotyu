@@ -46,7 +46,9 @@
 
 <p align="center"><b>Onde me encontrar</b></p>
 
-<p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg">
-</p>
+<div align="center">
+
+[![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/inotyu/inotyu)
+[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg)](https://discord.com/users/1463217614129070103)
+
+</div>
