@@ -9,8 +9,7 @@
       <ul>
         <li>programador por insistência</li>
         <li>web, mobile e backend</li>
-        <li>quebrando código desde sempre</li>
-        <li>🐈</li>
+        <li>quebrando código desde sempre</li>   
       </ul>
     </td>
     <td style="vertical-align: middle;">
