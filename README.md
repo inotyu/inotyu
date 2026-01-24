@@ -9,9 +9,10 @@
   <tr>
     <td style="vertical-align: middle; text-align: center;">
       <ul style="list-style-position: inside; padding: 0; margin: 0;">
+        <li>20 anos (em produção)</li>
         <li>programador por insistência</li>
         <li>web, mobile e backend</li>
-        <li>quebrando código desde sempre</li>   
+        <li>criando bugs profissionalmente</li> 
       </ul>
     </td>
     <td style="vertical-align: middle;">
