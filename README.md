@@ -12,7 +12,9 @@
         <li>20 anos (em produção)</li>
         <li>programador por insistência</li>
         <li>web, mobile e backend</li>
-        <li>criando bugs profissionalmente</li> 
+        <li>criando bugs profissionalmente</li>
+        <li>ah, criei a <a href="https://github.com/inotyu/KoeWeeb">KoeWeeb</a> (leitor de mangás)</li>
+        <li>tbm desenvolvi a <a href="https://github.com/inotyu/ProjectAI">ProjectAI</a> (SaaS de IA)</li>
       </ul>
     </td>
     <td style="vertical-align: middle;">
