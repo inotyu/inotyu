@@ -43,6 +43,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg">
 </p>
 
 <p align="center"><b>Sistema Operacional</b></p>
