@@ -32,8 +32,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg">
-</p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg">
 </p>
@@ -46,7 +45,8 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg">
-  
+</p>
+
 <p align="center"><b>Sistema Operacional</b></p>
 
 <p align="center">
@@ -56,8 +56,6 @@
 <p align="center"><b>Onde me encontrar</b></p>
 
 <div align="center">
-
-[![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/inotyu/inotyu)
-[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg)](https://discord.com/users/1463217614129070103)
-
+  [![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/inotyu/inotyu)
+  [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg)](https://discord.com/users/1463217614129070103)
 </div>
