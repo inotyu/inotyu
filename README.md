@@ -13,6 +13,7 @@
         <li>programador por insistência</li>
         <li>web, mobile e backend</li>
         <li>criando bugs profissionalmente</li>
+        <li>ue, pq vc quer ver meu <a href="https://inotyu.github.io/gean-dev/">portfólio?</a></li>
         <li>ah, criei a <a href="https://github.com/inotyu/KoeWeeb">KoeWeeb</a> (leitor de mangás)</li>
         <li>tbm desenvolvi a <a href="https://github.com/inotyu/ProjectAI">ProjectAI</a> (SaaS de IA)</li>
       </ul>
