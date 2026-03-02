@@ -34,7 +34,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg">
 </p>
-
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg">
 </p>
