@@ -1,30 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=1200&color=C8B89A&center=true&vCenter=true&width=500&lines=...initializing...;unit+designation%3A+GeanDev;glory+to+mankind+(talvez)" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=4000&pause=2000&color=A89880&center=true&vCenter=true&width=420&lines=unit+designation+%2F%2F+inotyu;glory+to+mankind." />
 
 <br>
 
 # Gean Carlos
 
-<table border="0">
-<tr>
-<td align="center" width="65%">
+<br>
 
-*20 anos em produção · programador por insistência*
-*criador de bugs de alta qualidade · web, mobile e backend*
-
-ue, pq vc quer ver meu [portfólio?](https://inotyu.github.io/gean-dev/)
-
-</td>
-<td align="center" width="35%">
-<img src="https://64.media.tumblr.com/01c8a07f297bcc663da016c43dcd6e37/tumblr_pn1k36AUVD1sx8ybdo3_400.pnj" width="110"/>
-</td>
-</tr>
-</table>
+<img src="https://64.media.tumblr.com/01c8a07f297bcc663da016c43dcd6e37/tumblr_pn1k36AUVD1sx8ybdo3_400.pnj" width="90"/>
 
 <br>
 
-**linguagens**
+*20 anos em produção · programador por insistência*
+*web, mobile e backend · criador de bugs de alta qualidade*
+
+[portfólio](https://inotyu.github.io/gean-dev/)
+
+<br><br>
 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
@@ -35,8 +30,6 @@ ue, pq vc quer ver meu [portfólio?](https://inotyu.github.io/gean-dev/)
 
 <br>
 
-**frameworks & ferramentas**
-
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg">
@@ -46,21 +39,18 @@ ue, pq vc quer ver meu [portfólio?](https://inotyu.github.io/gean-dev/)
 
 <br><br>
 
-<!-- PROJETOS -->
-
 <details>
-<summary>projetos</summary>
-<br>
-
-**[KoeWeeb](https://github.com/inotyu/KoeWeeb)** — leitor de mangás
-
-porque os outros leitores têm 14 popups por clique · `funcionando` *(às vezes depende da sua fé)*
+<summary><sub>// projetos</sub></summary>
 
 <br>
 
-**[ProjectAI](https://github.com/inotyu/ProjectAI)** — SaaS de IA
+**[KoeWeeb](https://github.com/inotyu/KoeWeeb)**
+*leitor de mangás — porque os outros têm 14 popups por clique*
 
-sofrimento voluntário com prazo de entrega · `operacional`
+<br>
+
+**[ProjectAI](https://github.com/inotyu/ProjectAI)**
+*SaaS de IA — sofrimento voluntário com prazo de entrega*
 
 <br>
 
@@ -68,15 +58,15 @@ sofrimento voluntário com prazo de entrega · `operacional`
 
 <br>
 
-<!-- RODAPÉ -->
-
 [![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/inotyu/inotyu)
 [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg)](https://discord.com/users/1463217614129070103)
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=10&duration=5000&pause=3000&color=6B6055&center=true&vCenter=true&width=300&lines=...;this+unit+will+continue.;...;probably." />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=9&duration=6000&pause=4000&color=5C5247&center=true&vCenter=true&width=260&lines=this+unit+will+continue.;...probably." />
 
-rising full-stack developer · © 2026
+<sub>© 2026</sub>
+
+<br>
 
 </div>
