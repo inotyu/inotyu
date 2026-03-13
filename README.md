@@ -17,7 +17,7 @@
       </ul>
     </td>
     <td style="vertical-align: middle;">
-      <img src="https://64.media.tumblr.com/01c8a07f297bcc663da016c43dcd6e37/tumblr_pn1k36AUVD1sx8ybdo3_400.pnj" width="100"/>
+      <img src="https://i.pinimg.com/474x/fd/a9/19/fda9199640f1df8b04b332c70e798c71.jpg" width="100"/>
     </td>
   </tr>
 </table>
