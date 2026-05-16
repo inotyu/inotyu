@@ -1,52 +1,103 @@
-<h1 align="center">Gean Carlos</h1>
 <div align="center">
-<table border="0" style="border: none;">
-  <tr>
-    <th colspan="2" style="text-align: center;">Sobre mim</th>
-  </tr>
-  <tr>
-    <td style="vertical-align: middle; text-align: center;">
-      <ul style="list-style-position: inside; padding: 0; margin: 0;">
-        <li>20 anos (em produção)</li>
-        <li>programador por insistência</li>
-        <li>web, mobile e backend</li>
-        <li>criando bugs profissionalmente</li>
-        <li>ue, pq vc quer ver meu <a href="https://inotyu.github.io/gean-dev/">portfólio?</a></li>
-        <li>ah, criei a <a href="https://github.com/inotyu/KoeWeeb">KoeWeeb</a> (leitor de mangás)</li>
-        <li>tbm desenvolvi a <a href="https://github.com/inotyu/ProjectAI">ProjectAI</a> (SaaS de IA)</li>
-      </ul>
-    </td>
-    <td style="vertical-align: middle;">
-      <img src="https://i.pinimg.com/474x/fd/a9/19/fda9199640f1df8b04b332c70e798c71.jpg" width="100"/>
-    </td>
-  </tr>
-</table>
-</div>
-<p align="center"><b>Linguagens</b></p>
+  <p align="center">
+    <img src="https://images.hdqwalls.com/download/2b-nier-automata-9s-dw-1366x768.jpg" alt="Banner" width="100%">
+  </p>
+
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Python+%7C+Flask+%7C+React+%7C+Vue;Building+modern+web+applications;APIs+%7C+SaaS+%7C+Backend+Architecture;loading...&background=000000"/>
 </p>
-<p align="center"><b>Frameworks & Ferramentas</b></p>
-<p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg">
-</p>
-<p align="center"><b>Sistema Operacional</b></p>
-<p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg">
-</p>
-<p align="center"><b>Onde me encontrar</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=firefox&logoColor=white)](https://inotyu.github.io/gean-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inotyu)
+[![Discord](https://img.shields.io/badge/Discord-F72585?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1463217614129070103)
+
 <div align="center">
 
-[![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/inotyu/inotyu)
-[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg)](https://discord.com/users/1463217614129070103)
+<img src="https://komarev.com/ghpvc/?username=inotyu&style=for-the-badge&color=F72585"/>
+<img src="https://img.shields.io/github/followers/inotyu?style=for-the-badge&color=F72585"/>
+<img src="https://img.shields.io/github/stars/inotyu?style=for-the-badge&color=F72585"/>
 
 </div>
+</div>
+
+
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqla_tEjIjGskOXZSZEr2yKQ7ggY0VQrtHLiBebhVpjQ&s=10" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <div>
+  <p><b>Full-Stack Developer</b></p>
+  Currently focused on <b>Python and Flask</b> for backend, and <b>React and Vue</b> for modern frontend interfaces.
+  I am exploring how to build scalable and resilient systems, from backend architecture to database integration and API design.<br><br>
+
+  I have been applying this knowledge in personal projects, developing applications that involve authentication, SaaS platforms, backend services and responsive frontends.<br><br>
+
+  📖 <b>KoeWeeb</b> — Manga Reader Platform<br>
+  🤖 <b>ProjectAI</b> — AI SaaS Platform<br>
+  🏥 <b>Pokémon Center</b> — Management System<br>
+  👥 <b>PeopleHub</b> — HR Mobile Application<br>
+  </div>
+</p>
+
+<br clear="right">
+
+<div align="center">
+<h3>🧬 Technologies</h3>
+</div>
+
+---
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=F72585)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F72585)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=F72585)
+
+**Frameworks & Libraries**
+
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=F72585)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=F72585)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=F72585)
+![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=F72585)
+![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=F72585)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=F72585)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=F72585)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F72585)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=F72585)
+
+</div>
+
+<br>
+
+<div align="center">
+<h3>📊 Statistics</h3>
+</div>
+
+---
+
+<div align="center">
+
+
+
+<br>
+<img src="https://streak-stats.demolab.com?user=inotyu&theme=tokyonight&background=000000&ring=F72585&fire=F72585&currStreakNum=F72585&sideNums=F72585&border=F72585"/>
+
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inotyu&bg_color=000000&color=F72585&line=F72585&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+
+
+<p align="center">
+  <i>"building random things until they become real projects."</i>
+</p>
