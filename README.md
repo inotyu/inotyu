@@ -8,9 +8,8 @@
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=firefox&logoColor=white)](https://inotyu.github.io/gean-dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inotyu)
 [![Discord](https://img.shields.io/badge/Discord-F72585?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1463217614129070103)
-
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inotyu)
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=inotyu&style=for-the-badge&color=F72585"/>
