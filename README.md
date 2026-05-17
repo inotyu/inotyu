@@ -76,15 +76,6 @@
 
 ---
 
-<div align="center">
-
-
-
-<br>
-<img src="https://streak-stats.demolab.com?user=inotyu&theme=tokyonight&background=000000&ring=F72585&fire=F72585&currStreakNum=F72585&sideNums=F72585&border=F72585"/>
-
-
-</div>
 
 <br>
 
