@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Python+%7C+Flask+%7C+React+%7C+Vue;Building+modern+web+applications;APIs+%7C+SaaS+%7C+Backend+Architecture;loading...&background=000000"/>
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=firefox&logoColor=white)](https://inotyu.github.io/gean-dev/)
 [![Discord](https://img.shields.io/badge/Discord-F72585?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1463217614129070103)
 [![GitHub](https://img.shields.io/badge/GitHub-F72585?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inotyu)
 <div align="center">
