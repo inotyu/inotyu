@@ -12,7 +12,7 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=inotyu&style=for-the-badge&color=F72585"/>
-<img src="https://img.shields.io/github/stars/inotyu?style=for-the-badge&color=F72585"/>
+<img src="https://img.shields.io/github/stars/notdwi?style=for-the-badge&color=F72585"/>
 
 </div>
 </div>
